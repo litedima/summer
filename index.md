@@ -7,7 +7,7 @@
 
 ![лето2](https://user-images.githubusercontent.com/92362218/136934215-2fc28a60-f599-454e-b83d-1002c84bdb0a.jpg)
 
-### Markdown
+### Далее следует таблица лета и видео про лето
 
 # Header 1
 ## Header 2
