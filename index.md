@@ -7,12 +7,9 @@
 ![лето2](https://user-images.githubusercontent.com/92362218/136934215-2fc28a60-f599-454e-b83d-1002c84bdb0a.jpg)
 
 ### Далее следует таблица лета и видео про лето
-	лето	лето 	лето
-лето	1		
-лето		2	
-лето			3
 ![image](https://user-images.githubusercontent.com/92362218/136940877-7c3e5979-f2cc-4170-9afc-d6ce973e3862.png)
 
+![image] (https://www.youtube.com/watch?v=Zv11L-ZfrSg)
 
 ## Сочинение про то как я провел лето
 
