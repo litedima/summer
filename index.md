@@ -6,12 +6,14 @@
 
 ![лето2](https://user-images.githubusercontent.com/92362218/136934215-2fc28a60-f599-454e-b83d-1002c84bdb0a.jpg)
 
-### Далее следует таблица лета и видео про лето
-![image](https://user-images.githubusercontent.com/92362218/136940877-7c3e5979-f2cc-4170-9afc-d6ce973e3862.png)
+### Далее следует таблица простых чисел
+
+![image](https://user-images.githubusercontent.com/92362218/136958416-47e40b56-8d23-4eef-8ff7-002d8f3b4a94.png)
+
 
 **Видео про живую природу летом**
 
-https://www.youtube.com/watch?v=Zv11L-ZfrSg
+[Ссылка на внешний источник Ютуб](https://www.youtube.com/watch?v=Zv11L-ZfrSg)
 
 ## Сочинение про то как я провел лето
 
