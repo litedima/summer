@@ -1,14 +1,13 @@
-## Welcome to GitHub Pages
+## Добро пожаловать на мою страницу в GITHUB
 
 На этой страние будет рассказано как я провел своё лето в 2021 году.
+### Как выглядит это лето на фотографии.
+![лето](https://user-images.githubusercontent.com/92362218/136933979-94b3ce2b-4a11-4825-82eb-95ea49be6665.jpg)
+### Как лето выглядит на самом деле в России
 
+![лето2](https://user-images.githubusercontent.com/92362218/136934215-2fc28a60-f599-454e-b83d-1002c84bdb0a.jpg)
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -19,10 +18,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-### Jekyll Themes
+### Контакты и ссылки
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/litedima/summer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ [Мы ВК](https://vk.com/dimka_pro100_milka).
